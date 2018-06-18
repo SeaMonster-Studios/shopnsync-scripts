@@ -1,0 +1,22 @@
+{
+  "name": "@seamonster-studios/shopnsync-scripts",
+  "version": "1.0.0",
+  "description": "dependencies of shopnsync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SeaMonster-Studios/shopnsync-scripts.git"
+  },
+  "keywords": [
+    "shopnsync"
+  ],
+  "author": "Logan Call @ SeaMonster Studios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SeaMonster-Studios/shopnsync-scripts/issues"
+  },
+  "homepage": "https://github.com/SeaMonster-Studios/shopnsync-scripts#readme"
+}
